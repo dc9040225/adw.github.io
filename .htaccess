@@ -1,0 +1,8 @@
+RedirectMatch 301 /you/(.*) https://www.youtube.com/watch?v=v4MrAyRTWqw
+
+
+
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
